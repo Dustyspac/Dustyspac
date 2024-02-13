@@ -24,5 +24,5 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dustyspac&layout=compact&theme=dracula)](https://github.com/Dustyspac/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoheesu&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dustyspac&show_icons=true&theme=dracula)
 </div> 
