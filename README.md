@@ -19,10 +19,10 @@
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> 
 </div>
-<div align=center>
 <br/>
+<div align=center>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dustyspac&layout=compact&theme=dracula)](https://github.com/Dustyspac/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dustyspac&layout=compact&theme=dracula)](https://github.com/Dustyspac/github-readme-stats)
 
 
 
