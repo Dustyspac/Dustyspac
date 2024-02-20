@@ -22,7 +22,7 @@
 
 
 <div align=center>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dustyspac&layout=compact&theme=dracula)](https://github.com/Dustyspac/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dustyspac&layout=compact&theme=dracula)](https://github.com/Dustyspac/github-readme-stats)
 
 
 
