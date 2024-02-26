@@ -48,7 +48,7 @@
 <br/>
 <div style="display:flex; flex-direction:row;"
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kihyun&layout=compact&theme=dracula)](https://github.com/Dustyspac/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kihyun&layout=compact)
 
 
 <div style="display:flex; flex-direction:row;"
