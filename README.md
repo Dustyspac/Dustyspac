@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Kihyun's%20World!&textBg=false&fontAlignY=50&fontSize=50&descAlignY=50&reversal=false)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Kihyun's%20Space!&animation=twinkling&stroke=3EF500&strokeWidth=2)
 
 ## 💻 Developer K's log 💻
 
@@ -46,11 +46,10 @@
 
 
 <br/>
-<div align=center>
-
+<div style="display:flex; flex-direction:row;"
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kihyun&layout=compact&theme=dracula)](https://github.com/Dustyspac/github-readme-stats)
 
 
-
+<div style="display:flex; flex-direction:row;"
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dustyspac&show_icons=true&theme=dracula)
 </div> 
