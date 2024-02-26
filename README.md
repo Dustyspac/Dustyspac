@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Kihyun's%20Space!&animation=twinkling&strokeWidth=0&fontColor=00FF7F)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Kihyun's%20Space!&animation=twinkling&strokeWidth=0&fontColor=ffffff)
 
 ## 💻 Developer K's log 💻
 
@@ -47,8 +47,8 @@
 
 <br/>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dustyspac&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dustyspac&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dustyspac&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dustyspac&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
