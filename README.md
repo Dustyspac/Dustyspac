@@ -2,10 +2,18 @@
 
 
 
-<div align=center><h3>⭐️ Tech Stacks ⭐️</h3></div>
+<div align=center><h3>Tech Stacks</h3></div>
 <div align=center>
   <img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/html-20232a.svg?style=for-the-badge&logo=html&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/css-20232a.svg?style=for-the-badge&logo=css&logoColor=1572B6" />
+</div>
+
+<div align=center><h3>Tools</h3></div>
+  <img src="https://img.shields.io/badge/git-20232a.svg?style=for-the-badge&logo=javascript&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=javascript&logoColor=181717" />
+  <img src="https://img.shields.io/badge/notion-20232a.svg?style=for-the-badge&logo=javascript&logoColor=000000" />
 </div>
 
 
