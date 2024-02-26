@@ -40,12 +40,12 @@
       <!-- Version Control -->
     <p><strong>Version Control</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/git-ffffff?style=flat-square&logo=git&logoColor=black">
-        <img src="https://img.shields.io/badge/github-ffffff?style=flat-square&logo=github&logoColor=F05032"> 
+        <img src="https://img.shields.io/badge/git-#F05032?style=flat-square&logo=git&logoColor=black">
+        <img src="https://img.shields.io/badge/github-ffffff?style=flat-square&logo=github&logoColor=black"> 
       <!-- Cooperation -->
     <p><strong>Cooperation</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/notion-ffffff?style=flat-square&logo=notion&logoColor=F05032">
+        <img src="https://img.shields.io/badge/notion-ffffff?style=flat-square&logo=notion&logoColor=black">
         <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"> 
     </div>
     <!-- Others -->
