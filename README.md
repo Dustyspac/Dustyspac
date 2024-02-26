@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Kihyun's%20Space!&animation=twinkling&strokeWidth=0&fontColor=ffffff)
+<!--타이틀 부분-->
+<div align="center">
+  <img src="https://ibb.co/WsCd6dq" />
+</div>
 
 ## 💻 Developer K's log 💻
 
