@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/9GPfNfz/GITHUB.png" alt="GITHUB" border="0">
 </div>
 
-## 💻 Developer K's log 💻
+## 💻 Hyun's log 💻
 
 <div style="display:flex; flex-direction:row;">
     <a href="https://velog.io/@kim20790/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
