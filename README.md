@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://ibb.co/WsCd6dq" />
+  <img src="https://i.ibb.co/9GPfNfz/GITHUB.png" alt="GITHUB" border="0">
 </div>
 
 ## 💻 Developer K's log 💻
