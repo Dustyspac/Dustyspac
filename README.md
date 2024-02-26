@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Kihyun's%20Space!&animation=twinkling&strokeWidth=0&fontColor=FFD700)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Kihyun's%20Space!&animation=twinkling&strokeWidth=0&fontColor=00FF7F)
 
 ## 💻 Developer K's log 💻
 
