@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Kihyun's%20World!&textBg=false&fontAlignY=50&fontSize=50&descAlignY=50&reversal=false)
 
-## 💻 DEV's log 💻
+## 💻 Developer K's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://velog.io/@kim20790/posts">
         <img src="https://img.shields.io/badge/
@@ -12,18 +12,15 @@
     </a>
 
 ## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="kim724265@gmail.com">
-        <img src="https://img.shields.io/badge/
-        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+<div style="display:flex; flex-direction:row;"
+    <a href="kim724265@gmail.com"
+        img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-    <a href="https://open.kakao.com/o/sXVFOkcg">
-        <img src="https://img.shields.io/badge/
-        KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+    <a href="https://open.kakao.com/o/sXVFOkcg"
+        img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a>
-    <a href="https://www.instagram.com/luna_lu_bloom/">
-        <img src="https://img.shields.io/badge/
-        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    <a href="https://www.instagram.com/luna_lu_bloom/"
+        img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
 
 ## 🔨 Once I've used 🔨
