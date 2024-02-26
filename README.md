@@ -46,12 +46,9 @@
 
 
 <br/>
-<div style="display:flex; flex-direction:row;"
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kihyun&layout=compact)
-
-
-<div style="display:flex; flex-direction:row;"
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dustyspac&show_icons=true&theme=dracula)
-</div> 
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dustyspac&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dustyspac&theme=tokyonight&show_icons=true" width="42%" />
+</a>
