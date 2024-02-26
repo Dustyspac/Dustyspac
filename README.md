@@ -1,5 +1,5 @@
 <!--타이틀 부분-->
-<div align="left">
+<div align="center">
   <img src="https://i.ibb.co/9GPfNfz/GITHUB.png" alt="GITHUB" border="0">
 </div>
 
