@@ -1,24 +1,24 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=9999FF&height=300&text=Dustyspac's%20World!&stroke=9999FF&desc=Welcome!&descAlignY305)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Kihyun's%20World!&textBg=false&fontAlignY=50&fontSize=50&descAlignY=50&reversal=false)
+
 
 
 <div align=center><h3>⭐️ Tech Stacks ⭐️</h3></div>
+<div align=center>
+<img src="http://www.w3.org/2000/svg?style=for-the-badge&logo=javascript&logoColor=white"> 
+<img src="http://www.w3.org/2000/svg?style=for-the-badge&logo=react&logoColor=white"> 
+<img src="http://www.w3.org/2000/svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src="http://www.w3.org/2000/svg?style=for-the-badge&logo=css3&logoColor=white">
+<img src="http://www.w3.org/2000/svg?style=for-the-badge&logo=git&logoColor=white">
+<img src="http://www.w3.org/2000/svg?style=for-the-badge&logo=github&logoColor=white">
+</div>
+
+
 <div align=center><h4>★ Main Stacks ★</h4></div>
 <div align=center>
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
-  
-</div>
-<br/>
-<div align=center><h4>★ Tools ★</h4></div>
-<div align=center>
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
-<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> 
-</div>
+
+<a href="https://kihyunkim001.notion.site/763d56f2f8824662bd6ec3a8d51a6c8a" target="_blank"><img src="http://www.w3.org/2000/svg?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+
 <br/>
 <div align=center>
 
