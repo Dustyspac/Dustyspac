@@ -6,15 +6,6 @@
     <a href="https://velog.io/@kim20790/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
     <a href="https://de-veloper-k.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-ffffff?style=for-the-badge&logo=Tistory&logoColor=black"/></a>
 
-    
-    <a href="https://velog.io/@kim20790/posts">
-        <img src="https://img.shields.io/badge/
-        Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
-    <a href="https://de-veloper-k.tistory.com/">
-        <img src="https://img.shields.io/badge/
-        Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;"
