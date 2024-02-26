@@ -4,17 +4,10 @@
 
 <div align=center><h3>⭐️ Tech Stacks ⭐️</h3></div>
 <div align=center>
-<img src="http://www.w3.org/2000/svg?style=for-the-badge&logo=javascript&logoColor=white"> 
-<img src="http://www.w3.org/2000/svg?style=for-the-badge&logo=react&logoColor=white"> 
-<img src="http://www.w3.org/2000/svg?style=for-the-badge&logo=html5&logoColor=white">
-<img src="http://www.w3.org/2000/svg?style=for-the-badge&logo=css3&logoColor=white">
-<img src="http://www.w3.org/2000/svg?style=for-the-badge&logo=git&logoColor=white">
-<img src="http://www.w3.org/2000/svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
-
-<div align=center><h4>★ Main Stacks ★</h4></div>
-<div align=center>
 
 
 <a href="https://kihyunkim001.notion.site/763d56f2f8824662bd6ec3a8d51a6c8a" target="_blank"><img src="http://www.w3.org/2000/svg?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
