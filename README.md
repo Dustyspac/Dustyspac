@@ -12,9 +12,9 @@
 
 <div align=center><h3>Tools</h3></div>
 <div align=center>
-  <img src="https://img.shields.io/badge/git-20232a.svg?style=for-the-badge&logo=javascript&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=javascript&logoColor=181717" />
-  <img src="https://img.shields.io/badge/notion-20232a.svg?style=for-the-badge&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/git-20232a.svg?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=181717" />
+  <img src="https://img.shields.io/badge/notion-20232a.svg?style=for-the-badge&logo=notion&logoColor=000000" />
 </div>
 
 
