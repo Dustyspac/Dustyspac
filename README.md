@@ -15,7 +15,6 @@
 <div style="display:flex; flex-direction:row;"
     <a href="kim724265@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
     <a href="https://open.kakao.com/o/sXVFOkcg" target="_blank"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=for-the-badge&logo=Kakao&logoColor=black"/></a>
-    <a href="https://www.instagram.com/luna_lu_bloom/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <br />
 
 ## 🔨 Once I've used 🔨
